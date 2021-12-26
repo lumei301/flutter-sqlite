@@ -12,8 +12,9 @@ dependencies:
   flutter:
     sdk: flutter
   percent_indicator: ^3.4.0
-
   cupertino_icons: ^1.0.2
+  sqflite: ^2.0.1
+  path: ^1.8.0
 
 dev_dependencies:
   flutter_test:
