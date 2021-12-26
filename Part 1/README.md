@@ -5,7 +5,7 @@
 
 Create a flutter app in 10 mins by using SQLite as the database. This repo will show you how to use the sqflite plugin to save structured data offline and create a database, store, update, and remove data (CRUD) in a Flutter application.
 
-![Using SQLite In Flutter — Lumei Digital](https://github.com/lumei301/flutter-firebase/blob/main/Flutter%20tutorial%20for%20beginners%20-%20Lumei%20Digital.gif "Using SQLite In Flutter")
+![Flutter tutorial for beginners step by step using Firebase — Lumei Digital](https://github.com/lumei301/flutter-firebase/blob/main/Flutter%20tutorial%20for%20beginners%20-%20Lumei%20Digital.gif "Using SQLite In Flutter")
 
 
 ## Features
